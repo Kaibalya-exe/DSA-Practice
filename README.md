@@ -22,7 +22,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic | Problems Solved |
 |--------|----------------|
-| Arrays | 1 |
+| Arrays | 3 |
 | Strings | 0 |
 | Linked Lists | 0 |
 | Trees | 0 |
@@ -33,3 +33,10 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Strengthen problem-solving skills.
 - Prepare for internships and technical interviews.
 - Document my DSA learning journey.
+
+## Completed
+
+### Arrays
+- LeetCode #1 - Two Sum
+- Find Minimum and Maximum Element
+- Linear Search
