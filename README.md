@@ -23,6 +23,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Topic | Problems Solved |
 |--------|----------------|
 | Arrays | 5 |
+| Vectors | STL Basics, Dynamic Arrays | 1 |
+| Bit Manipulation | XOR | 1 |
 | Strings | 0 |
 | Linked Lists | 0 |
 | Trees | 0 |
