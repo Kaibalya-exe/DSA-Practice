@@ -18,16 +18,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Graphs
 - Dynamic Programming
 
-## Progress
+## Progress Tracker
 
-| Topic | Problems Solved |
-|--------|----------------|
-| Arrays | 5 |
+| Topic | Concepts Learned | Problems |
+|--------|-----------------|----------|
+| Arrays | Traversal, Linear Search, Frequency Count | 5 |
 | Vectors | STL Basics, Dynamic Arrays | 1 |
 | Bit Manipulation | XOR | 1 |
-| Strings | 0 |
-| Linked Lists | 0 |
-| Trees | 0 |
 
 ## Goal
 
