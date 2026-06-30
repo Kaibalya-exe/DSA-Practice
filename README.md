@@ -7,22 +7,11 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 - C++
 
-## Topics Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Dynamic Programming
-
 ## Progress Tracker
 
 | Topic | Concepts Learned | Problems |
 |--------|-----------------|----------|
-| Arrays | Traversal, Linear Search, Frequency Count | 5 |
+| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane | 7 |
 | Vectors | STL Basics, Dynamic Arrays | 1 |
 | Bit Manipulation | XOR | 1 |
 
@@ -41,3 +30,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Linear Search
 - Array Intersection
 - Array Unique Elements
+- Subarrays
+- Kadane's Algorithm
+
+### Vectors
+- Vectors
+- Vector Functions
