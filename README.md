@@ -11,7 +11,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic | Concepts Learned | Problems |
 |--------|-----------------|----------|
-| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane | 7 |
+| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane , Moore's algo. | 11 |
 | Vectors | STL Basics, Dynamic Arrays | 1 |
 | Bit Manipulation | XOR | 1 |
 
@@ -22,16 +22,25 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Prepare for internships and technical interviews.
 - Document my DSA learning journey.
 
-## Completed
+## Completed :
+
+### LeetCode
+- #1 Two Sum
+- #53 Maximum Subarray
+- #136 Single Number
+- #169 Majority Element
 
 ### Arrays
-- LeetCode #1 - Two Sum
 - Find Minimum and Maximum Element
 - Linear Search
 - Array Intersection
 - Array Unique Elements
 - Subarrays
 - Kadane's Algorithm
+- Pair Sum
+- Two Pointer Technique
+- Majority Element
+- Moore's Voting Algorithm
 
 ### Vectors
 - Vectors
