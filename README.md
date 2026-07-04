@@ -11,7 +11,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic | Concepts Learned | Problems |
 |--------|-----------------|----------|
-| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane , Moore's algo. | 11 |
+| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane , Moore's algo. | 12 |
 | Vectors | STL Basics, Dynamic Arrays | 1 |
 | Bit Manipulation | XOR | 1 |
 
@@ -29,6 +29,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #53 Maximum Subarray
 - #136 Single Number
 - #169 Majority Element
+- #121 Best Time to Buy and Sell Stock
 
 ### Arrays
 - Find Minimum and Maximum Element
