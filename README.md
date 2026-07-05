@@ -11,11 +11,11 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic | Concepts Learned | Problems |
 |--------|-----------------|----------|
-| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane , Moore's algo. | 12 |
+| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane , Moore's algo. | 14 |
 | Vectors | STL Basics, Dynamic Arrays | 1 |
 | Bit Manipulation | XOR | 1 |
 
-## Goal
+## Goal :
 
 - Solve problems consistently.
 - Strengthen problem-solving skills.
@@ -24,16 +24,22 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Completed :
 
-### LeetCode
+### LeetCode :
+
 - #1 Two Sum
+- #11 Container With Most Water
+- #50 Pow(x,n)
 - #53 Maximum Subarray
+- #121 Best Time To Buy And Sell Stock
 - #136 Single Number
 - #169 Majority Element
-- #121 Best Time to Buy and Sell Stock
 
-### Arrays
+### Concepts Learned :
+
 - Find Minimum and Maximum Element
 - Linear Search
+- Vectors
+- Vector Functions
 - Array Intersection
 - Array Unique Elements
 - Subarrays
@@ -42,7 +48,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Two Pointer Technique
 - Majority Element
 - Moore's Voting Algorithm
+- Binary Exponentiation
+- Fast Exponentiation
+- Two Pointer Optimization
+- Time Complexity Optimization
 
-### Vectors
-- Vectors
-- Vector Functions
