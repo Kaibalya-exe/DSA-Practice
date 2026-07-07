@@ -7,13 +7,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 - C++
 
-## Progress Tracker
-
-| Topic | Concepts Learned | Problems |
-|--------|-----------------|----------|
-| Arrays | Traversal, Linear Search, Frequency Count, Subarrays, Kadane , Moore's algo. | 14 |
-| Vectors | STL Basics, Dynamic Arrays | 1 |
-| Bit Manipulation | XOR | 1 |
+## Progress :
 
 ## Goal :
 
@@ -33,6 +27,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #121 Best Time To Buy And Sell Stock
 - #136 Single Number
 - #169 Majority Element
+- #238 Product of Array Except Self
 
 ### Concepts Learned :
 
@@ -52,4 +47,10 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Fast Exponentiation
 - Two Pointer Optimization
 - Time Complexity Optimization
+- Prefix Products
+- Suffix Products
+- Binary Search
+- Recursion
+- Pointer Basics
+- Pointer Arithmetic
 
