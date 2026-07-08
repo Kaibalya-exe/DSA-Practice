@@ -28,6 +28,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #136 Single Number
 - #169 Majority Element
 - #238 Product of Array Except Self
+- #33 Search in Rotated Sorted Array
 
 ### Concepts Learned :
 
@@ -53,4 +54,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Recursion
 - Pointer Basics
 - Pointer Arithmetic
+- Modified Binary Search
+- Rotated Sorted Arrays
 
