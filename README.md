@@ -29,6 +29,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #169 Majority Element
 - #238 Product of Array Except Self
 - #33 Search in Rotated Sorted Array
+- #852 Peak Index in a Mountain Array
 
 ### Concepts Learned :
 
@@ -56,4 +57,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Pointer Arithmetic
 - Modified Binary Search
 - Rotated Sorted Arrays
+- Mountain Arrays
+- Peak Finding using Binary Search
 
