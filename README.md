@@ -63,4 +63,5 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Binary Search on Paired Arrays
 - Binary search on Book Allocation Problem
 - Binary search on Painter's Partition Problem
+- Binary seach on Aggressive Cow's Problem
 
