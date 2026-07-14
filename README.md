@@ -31,6 +31,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #33 Search in Rotated Sorted Array
 - #852 Peak Index in a Mountain Array
 - #540 Single Element in a Sorted Array
+- #75 Sort Colors
 
 ### Concepts Learned :
 
@@ -64,4 +65,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Binary search on Book Allocation Problem
 - Binary search on Painter's Partition Problem
 - Binary seach on Aggressive Cow's Problem
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Comparison Sorting
+- Element Shifting
 
