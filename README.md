@@ -32,6 +32,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #852 Peak Index in a Mountain Array
 - #540 Single Element in a Sorted Array
 - #75 Sort Colors
+- #31 Next Permutation
+- #88 Merge Sorted Array
 
 ### Concepts Learned :
 
@@ -70,4 +72,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Insertion Sort
 - Comparison Sorting
 - Element Shifting
+- Merge Techniques
+- Three Pointer Technique
+- Lexicographical Ordering
+- Next Permutation Algorithm
 
