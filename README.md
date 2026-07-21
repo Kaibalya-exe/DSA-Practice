@@ -34,6 +34,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #75 Sort Colors
 - #31 Next Permutation
 - #88 Merge Sorted Array
+- #74 Search a 2D Matrix
 
 ### Concepts Learned :
 
