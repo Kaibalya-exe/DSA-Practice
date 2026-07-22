@@ -35,6 +35,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #31 Next Permutation
 - #88 Merge Sorted Array
 - #74 Search a 2D Matrix
+- #240 Search a 2D Matrix II
 
 ### Concepts Learned :
 
