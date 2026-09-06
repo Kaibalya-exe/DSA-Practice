@@ -74,6 +74,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Insertion Sort
 - Comparison Sorting
 - Element Shifting
+- Linked List & Operations
 - Merge Techniques
 - Three Pointer Technique
 - Lexicographical Ordering
