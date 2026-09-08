@@ -36,6 +36,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - #88 Merge Sorted Array
 - #74 Search a 2D Matrix
 - #240 Search a 2D Matrix II
+- #1 Two Sum (Better)
+- #1 Two Sum (Optimized)
 
 ### Concepts Learned :
 
