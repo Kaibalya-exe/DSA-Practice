@@ -82,3 +82,18 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Lexicographical Ordering
 - Next Permutation Algorithm
 
+### C++ Standard Template Library (STL)
+
+#### Vectors and Iterators
+- **File:** `STL/Vectors/vector_basics.cpp`
+- **Documentation:** `STL/Vectors/README.md`
+- **Topics covered:**
+  - Vector initialization and dynamic storage
+  - `push_back()`, `emplace_back()`, and `pop_back()`
+  - Element access: `[]`, `at()`, `front()`, and `back()`
+  - Insertion and deletion: `insert()`, `erase()`, and `clear()`
+  - `empty()`, `size()`, and `capacity()`
+  - Forward iterators: `begin()` and `end()`
+  - Reverse iterators: `rbegin()` and `rend()`
+  - Iterator-based traversal and `auto`
+- **Complexity:** Random access O(1), back insertion amortized O(1), and middle insertion/deletion O(n) in the worst case.
